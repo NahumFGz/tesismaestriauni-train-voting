@@ -1,0 +1,688 @@
+{
+  "fecha": [
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 30 de abril de 2015?",
+      "context": [
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/639_pp2011_2016_pa2014_2015_leg2_page_9.png",
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/639_pp2011_2016_pa2014_2015_leg2_page_15.png",
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/639_pp2011_2016_pa2014_2015_leg2_page_14.png",
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/639_pp2011_2016_pa2014_2015_leg2_page_7.png",
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/639_pp2011_2016_pa2014_2015_leg2_page_6.png",
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/639_pp2011_2016_pa2014_2015_leg2_page_4.png",
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/639_pp2011_2016_pa2014_2015_leg2_page_11.png",
+        "Asistencia del 15 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/638_pp2011_2016_pa2014_2015_leg2_page_3.png",
+        "Asistencia del 16 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/637_pp2011_2016_pa2014_2015_leg2_page_4.png",
+        "Asistencia del 17 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/637_pp2011_2016_pa2014_2015_leg2_page_9.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 14 de mayo de 2015?",
+      "context": [
+        "Asistencia del 01 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/634_pp2011_2016_pa2014_2015_leg2_page_7.png",
+        "Asistencia del 13 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/633_pp2011_2016_pa2014_2015_leg2_page_5.png",
+        "Asistencia del 14 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/632_pp2011_2016_pa2014_2015_leg2_page_6.png",
+        "Asistencia del 14 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/632_pp2011_2016_pa2014_2015_leg2_page_4.png",
+        "Asistencia del 14 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/633_pp2011_2016_pa2014_2015_leg2_page_7.png",
+        "Asistencia del 15 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/632_pp2011_2016_pa2014_2015_leg2_page_8.png",
+        "Asistencia del 15 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/632_pp2011_2016_pa2014_2015_leg2_page_10.png",
+        "Asistencia del 20 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/630_pp2011_2016_pa2014_2015_leg2_page_5.png",
+        "Asistencia del 21 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/629_pp2011_2016_pa2014_2015_leg2_page_15.png",
+        "Asistencia del 28 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/628_pp2011_2016_pa2014_2015_leg2_page_4.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 12 de diciembre de 2013?",
+      "context": [
+        "Asistencia del 04 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/707_pp2011_2016_pa2013_2014_leg1_page_6.png",
+        "Asistencia del 04 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/707_pp2011_2016_pa2013_2014_leg1_page_5.png",
+        "Asistencia del 05 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/706_pp2011_2016_pa2013_2014_leg1_page_26.png",
+        "Asistencia del 05 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/706_pp2011_2016_pa2013_2014_leg1_page_27.png",
+        "Asistencia del 05 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/706_pp2011_2016_pa2013_2014_leg1_page_29.png",
+        "Asistencia del 12 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/705_pp2011_2016_pa2013_2014_leg1_page_19.png",
+        "Asistencia del 12 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/705_pp2011_2016_pa2013_2014_leg1_page_12.png",
+        "Asistencia del 12 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/705_pp2011_2016_pa2013_2014_leg1_page_9.png",
+        "Asistencia del 12 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/705_pp2011_2016_pa2013_2014_leg1_page_27.png",
+        "Asistencia del 12 de diciembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/705_pp2011_2016_pa2013_2014_leg1_page_23.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 7 de marzo de 2019?",
+      "context": [
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_6.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_4.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_14.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_8.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_12.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_9.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_15.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_11.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/437_pp2016_2021_pa2018_2019_leg2_page_3.png",
+        "Asistencia del 08 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/436_pp2016_2021_pa2018_2019_leg2_page_5.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 9 de junio de 2016?",
+      "context": [
+        "Asistencia del 09 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/578_pp2011_2016_pa2015_2016_leg2_page_17.png",
+        "Asistencia del 09 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/578_pp2011_2016_pa2015_2016_leg2_page_12.png",
+        "Asistencia del 09 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/578_pp2011_2016_pa2015_2016_leg2_page_9.png",
+        "Asistencia del 09 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/578_pp2011_2016_pa2015_2016_leg2_page_20.png",
+        "Asistencia del 09 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/578_pp2011_2016_pa2015_2016_leg2_page_3.png",
+        "Asistencia del 09 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/578_pp2011_2016_pa2015_2016_leg2_page_7.png",
+        "Asistencia del 09 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/578_pp2011_2016_pa2015_2016_leg2_page_19.png",
+        "Asistencia del 14 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/577_pp2011_2016_pa2015_2016_leg2_page_14.png",
+        "Asistencia del 15 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/576_pp2011_2016_pa2015_2016_leg2_page_4.png",
+        "Asistencia del 15 de junio del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/577_pp2011_2016_pa2015_2016_leg2_page_21.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 13 de mayo de 2015?",
+      "context": [
+        "Asistencia del 01 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/634_pp2011_2016_pa2014_2015_leg2_page_7.png",
+        "Asistencia del 13 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/633_pp2011_2016_pa2014_2015_leg2_page_5.png",
+        "Asistencia del 14 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/632_pp2011_2016_pa2014_2015_leg2_page_6.png",
+        "Asistencia del 14 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/632_pp2011_2016_pa2014_2015_leg2_page_4.png",
+        "Asistencia del 14 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/633_pp2011_2016_pa2014_2015_leg2_page_7.png",
+        "Asistencia del 15 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/632_pp2011_2016_pa2014_2015_leg2_page_8.png",
+        "Asistencia del 15 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/632_pp2011_2016_pa2014_2015_leg2_page_10.png",
+        "Asistencia del 20 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/630_pp2011_2016_pa2014_2015_leg2_page_5.png",
+        "Asistencia del 21 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/629_pp2011_2016_pa2014_2015_leg2_page_15.png",
+        "Asistencia del 28 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/628_pp2011_2016_pa2014_2015_leg2_page_4.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 5 de septiembre de 2022?",
+      "context": [
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_5.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_38.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_13.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_17.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_32.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_34.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_25.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_36.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_8.png",
+        "Asistencia del 01 de septiembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/195_pp2021_2026_pa2022_2023_leg1_page_6.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 23 de mayo de 2019?",
+      "context": [
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_22.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_20.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_9.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_11.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_19.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_13.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_5.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_7.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_23.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/427_pp2016_2021_pa2018_2019_leg2_page_3.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 7 de mayo de 2021?",
+      "context": [
+        "Asistencia del 05 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/906_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 05 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/906_pp2006_2011_pa2009_2010_leg2_page_5.png",
+        "Asistencia del 05 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/906_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 06 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/905_pp2006_2011_pa2009_2010_leg2_page_11.png",
+        "Asistencia del 06 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/905_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 06 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/905_pp2006_2011_pa2009_2010_leg2_page_15.png",
+        "Asistencia del 06 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/905_pp2006_2011_pa2009_2010_leg2_page_5.png",
+        "Asistencia del 06 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/905_pp2006_2011_pa2009_2010_leg2_page_13.png",
+        "Asistencia del 06 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/905_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 06 de mayo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/905_pp2006_2011_pa2009_2010_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Cuáles fueron las votaciones del Congreso el 15 de mayo de 2014?",
+      "context": [
+        "Asistencia del 07 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/691_pp2011_2016_pa2013_2014_leg2_page_6.png",
+        "Asistencia del 07 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/691_pp2011_2016_pa2013_2014_leg2_page_5.png",
+        "Asistencia del 07 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/691_pp2011_2016_pa2013_2014_leg2_page_12.png",
+        "Asistencia del 07 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/691_pp2011_2016_pa2013_2014_leg2_page_3.png",
+        "Asistencia del 07 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/691_pp2011_2016_pa2013_2014_leg2_page_10.png",
+        "Asistencia del 14 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/689_pp2011_2016_pa2013_2014_leg2_page_20.png",
+        "Asistencia del 14 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/689_pp2011_2016_pa2013_2014_leg2_page_13.png",
+        "Asistencia del 14 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/689_pp2011_2016_pa2013_2014_leg2_page_16.png",
+        "Asistencia del 14 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/689_pp2011_2016_pa2013_2014_leg2_page_5.png",
+        "Asistencia del 14 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/689_pp2011_2016_pa2013_2014_leg2_page_19.png"
+      ]
+    }
+  ],
+  "asunto": [
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'ACION DEL INCISO 1 EN EL ARTICULO 3 DEL PROYECTO 1807; LEY DE FORTALECIMIENTO DE LA DEFENSA DEL CONSUMIDOR A VÉS DE LAS MUNICIPALIDADES'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE LA SEGUNDA VOTACION DE LOS PROYS. 147 Y 322; LEY QUE INCORPORA AL RÉGIMEN LABORAL DEL DECRETO LEGISLATIVO 728 A LOS TRABAJADORES PROFESIONALES, NO PROFESIONALES, ASISTENCIALES Y ADMINISTRATIVOS DE ESSALUD QUE SE ENCUENTRAN BAJO EL RÉGIMEN DE CONTRATACION ADMINISTRATIVA DE SERVICIOS(CAS)'?",
+      "context": [
+        "Asistencia del 01 de agosto del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/728_pp2011_2016_pa2013_2014_leg1_page_7.png",
+        "Asistencia del 01 de agosto del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/728_pp2011_2016_pa2013_2014_leg1_page_5.png",
+        "Asistencia del 16 de febrero del 2021 – Tercera Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/322_pp2016_2021_pa2021_2022_leg3_page_6.png",
+        "Asistencia del 16 de febrero del 2021 – Tercera Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/322_pp2016_2021_pa2021_2022_leg3_page_5.png",
+        "Asistencia del 16 de febrero del 2021 – Tercera Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/322_pp2016_2021_pa2021_2022_leg3_page_4.png",
+        "Asistencia del 16 de febrero del 2021 – Tercera Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/322_pp2016_2021_pa2021_2022_leg3_page_3.png",
+        "Asistencia del 30 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/147_pp2021_2026_pa2022_2023_leg2_page_13.png",
+        "Asistencia del 30 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/147_pp2021_2026_pa2022_2023_leg2_page_3.png",
+        "Asistencia del 30 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/147_pp2021_2026_pa2022_2023_leg2_page_15.png",
+        "Asistencia del 30 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/147_pp2021_2026_pa2022_2023_leg2_page_11.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'INDA VOTACION DEL PROY. 1659; LEY QUE PROMUEVE EL DESARROLLO DEL MERCADO DE CAPITALES'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE 2DA VOTACION, PROY 3631, LEY DE DEMARCACION Y ORGANIZACION TERRITORIAL DE LA PROVINCIA DE CHURCAMPA EN EL DEPARTAMENTO DE HUANCAVELICA'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'PROY 4659, LEY DE IMPULSO A LA FORMALIZACION EN EL RUBRO DE ENSAMBLLAE DE COMPUTADORAS Y A LA REDUCCION DE LA BRECHA DIGITAL EN EL PERU'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'INSISTENCIA EN LA AUTOGRAFA OBSERVADA POR LA SENORA PRESIDENTA DE LA REPUBLICA RECAIDA EN LOS PROYECTOS DE LEY 923 Y 5322, QUE PROPONEN MODIFICAR EL TEXTO UNICO ORDENADO DE LA LEY DEL IMPUESTO GENERAL A LAS VENTAS E IMPUESTO SELECTIVO AL CONSUMO, APROBADO POR EL DECRETO SUPREMO 55-99-EF, PARA FACILITAR EL INGRESO DE REMESAS AL PERU ILr a a 1 - TCDI IOD'?",
+      "context": [
+        "Asistencia del 15 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/923_pp2006_2011_pa2009_2010_leg1_page_7.png",
+        "Asistencia del 15 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/923_pp2006_2011_pa2009_2010_leg1_page_3.png",
+        "Asistencia del 15 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/923_pp2006_2011_pa2009_2010_leg1_page_4.png",
+        "Asistencia del 15 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/923_pp2006_2011_pa2009_2010_leg1_page_6.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'ADMISION A DEBATE DE LA MOCION 006, QUE PROPONE CONFORMAR UNA COMISION ESPECIAL MULTISECTORIAL A FAVOR DE LOS VALLES DE LOS RIOS APURIMAC, ENE Y MANTARO - VRAEM, ENCARGADA DE ESTUDIAR, MONITOREAR, EVALUAR, PROPONER, PROMOVER Y FISCALIZAR EN LOS TRES NIVELES DE GOBIERNO, EL CUMPLIMIENTO DE LAS POLITICAS, PLANES, PROGRAMAS, PROYECTOS, ESTRATEGIAS, ENTRE OTRAS ACCIONES DADAS POR EL PODER EJECUTIVO A FAVOR DEL VRAEM, RECOMENDANDO Y TOMANDOACCIONES'?",
+      "context": [
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_18.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_27.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_23.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_21.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_3.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_9.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_16.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_26.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_29.png",
+        "Asistencia del 15 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/006_pp2021_2026_pa2024_2025_leg2_page_5.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'TO SUSTITUTORIO DEL PROYECTO DE LEY 5874, QUE PROPONE MODIFICAR LA LEY 29090, LEY DE REGULACIONDE ILITACIONES URBANAS Y EDIFICACIONES, A FIN DE GARANTIZAR LA SEGURIDAD E INTEGRIDAD DE LOS PROYECTOS DE ILITACION URBANA Y DE EDIFICACIONES A TRAVÉS DE LA PARTICIPACION DE LOS INGENIEROS GEOLOGOS'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE 2DA VOTACION DE LOS PROYS. 4536, 4621, 4684 y 4753, LEY QUE DISPONE BENEFICIOS A FAVOR DE LOS INTEGRANTES DE LAS JUNTAS VECINALES Y ESTABLECE EL DIA DE LAS JUNTAS VECINALES DE SEGURIDAD CIUDADANA'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'RATIFICACION DEL ACUERDO DE LA JUNTA DE PORTAVOCES QUE EXONERA DE DICTAMEN DE LA COMISION DE DEFENSA NACIONAL Y LA AMPLIACION DE AGENDA RESPECTO DEL PROYECTO DE LEY 8789, QUE PROPONE MODIFICAR LA LEY 31953, LEY DE PRESUPUESTO DEL SECTOR PUBLICO PARA EL ANO FISCAL 2024, PARA PRECISAR LOS ALCANCES DEL CAMBIO DEL GRUPO OCUPACIONAL Y DE LINEA DE CADDEDA DE DEDSONAL ASISTENCCAA DROEESIONAL TÉCNICO v ALIYILIADDE SALIIDEEI MINISTERRIO DE DEFENSA'?",
+      "context": [
+        "Asistencia del 01 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/085_pp2021_2026_pa2023_2024_leg2_page_5.png",
+        "Asistencia del 01 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/085_pp2021_2026_pa2023_2024_leg2_page_3.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/084_pp2021_2026_pa2023_2024_leg2_page_7.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/084_pp2021_2026_pa2023_2024_leg2_page_11.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/084_pp2021_2026_pa2023_2024_leg2_page_3.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/084_pp2021_2026_pa2023_2024_leg2_page_6.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/084_pp2021_2026_pa2023_2024_leg2_page_9.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/084_pp2021_2026_pa2023_2024_leg2_page_4.png",
+        "Asistencia del 07 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/083_pp2021_2026_pa2023_2024_leg2_page_27.png",
+        "Asistencia del 07 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/083_pp2021_2026_pa2023_2024_leg2_page_17.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'TEXTO SUSTITUTORIO DE LOS PROYECTOS DE LEY 5929, 6003, 6005 Y 5672, QUE PROPONEN EL FORTALECIMIENTO DE LOS HOGARES DE REFUGIO TEMPORAL PARA MUJERES VICTIMAS DE VIOLENCIA Y OTROS INTEGRANTES DEL GRUPO FAMILIAR'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE LA SEGUNDA VOTACION DEL TEXTO SUSTITUTORIO DEL PROYECTO DE LEY 314, QUE PROPONE LA LEY QUE RECONOCE A LOS AUXILIARES DE EDUCACION COMO PARTE DE LA COMUNIDAD EDUCATIVA EN LA LEY GENERAL DE EDUCACION'?",
+      "context": [
+        "Asistencia del 16 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/votacion/839_pp2006_2011_pa2010_2011_leg2_page_64.png",
+        "Asistencia del 16 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/votacion/839_pp2006_2011_pa2010_2011_leg2_page_69.png",
+        "Asistencia del 16 de junio del 2011 – Segunda Legisiatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/votacion/839_pp2006_2011_pa2010_2011_leg2_page_72.png",
+        "Asistencia del 16 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/votacion/839_pp2006_2011_pa2010_2011_leg2_page_54.png",
+        "Asistencia del 16 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/votacion/839_pp2006_2011_pa2010_2011_leg2_page_56.png",
+        "Asistencia del 16 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/votacion/839_pp2006_2011_pa2010_2011_leg2_page_66.png",
+        "Asistencia del 16 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/votacion/839_pp2006_2011_pa2010_2011_leg2_page_46.png",
+        "Asistencia del 16 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/votacion/839_pp2006_2011_pa2010_2011_leg2_page_68.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'a Relatora a PROY. 327; RESOLUCION LEGISLATIVA QUE APRUEBAELMMEMORADDUM DEENITE DIMIENTO ENTREEL COBIERNO DE LA REPUBLICA DEL PERU Y GOBIERNO DE LA REPUBLICA ITALIANA PARA LA COOPERACION EN EL DE SEGURIDAD DEFENSA DE LOS MATERIALES PARA LA DEFENSA\" CAMPO LA Y'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'ONERACION DE LA SEGUNDA VOTACION DEL TEXTO SUSTITUTORIO DEL PROYECTO DE LEY 5813, QUE PROPONE LA LEY QUE PONE LA ADECUACION DEL TRANSPORTE Y DISPOSICION FINAL DE RELAVE A LAS EMPRESAS QUE REALIZAN ACTIVIDADES ERO-METALURGICAS'?",
+      "context": [
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_8.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_12.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/915_pp2006_2011_pa2009_2010_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'TEXTO SUSTITUTORIO DE LOS PROYECTOS DE LEY 7273 Y 7809, QUE PROPONE MODIFICAR EL DECRETO LEGISLATIVO 1441, DECRETO EGISLATIVO DEL SISTEMA NACIONAL DE TESORERIA'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'TO SUSTITUTORIO DEL PROYECTO DE LEY 6962, QUE PROPONE CREAR LA COMISION ESPECIAL MULTIPARTIDARIA ENCARGADA DE BORAR UN NUEVO CODIGO PENAL ACTUALIZADO RECOGIENDO EL TRABAJO EXISTENTE DE LAS COMISIONES ANTERIORES'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'PROYS. 184 Y 1052; LEY QUE REGULA EL TELETRABAJO'?",
+      "context": [
+        "Asistencia del 19 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/184_pp2021_2026_pa2022_2023_leg1_page_3.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'XTO SUSTITUTORIO DEL PROYECTO DE LEY 646, QUE PROPONE DECLARAR A LA CIUDAD DE CHIMBOTE COMO CAPITAL HISTORICA LA PESCA Y DE LOS RECURSOS HIDROBIOLOGICOS'?",
+      "context": [
+        "Asistencia del 04 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/646_pp2011_2016_pa2014_2015_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE LA SEGUNDA VOTACION DEL TEXTO SUSTITUTORIO DE LOS PROYECTOS DE LEY 6907, 6948, 6974, 6988, 7034, 7158 Y 7338, QUE PROPONE LA LEY QUE MODIFICA LOS ARTICULOS 24-A Y 24-B DE LA LEY 28094, LEY DE ORGANIZACIONES POLITICAS, PARA UNIFORMIZAR LA EXIGENCIA DEL TIEMPO DE AFILIACION Y LOS CRITERIOS DE DESIGNACION DIRECTA PARA LOS CANDIDATOS A LAS ELECCIONES REGIONALES Y MUNICIPALES'?",
+      "context": [
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_8.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_12.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/915_pp2006_2011_pa2009_2010_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE LA SEGUNDA VOTACION DEL TEXTO SUSTITUTORROO DE LOS PROYECTOS DE LEY 649 Y 894, QUE PROPONE MODIFICAR LA LEY 29763, LEY FORESTAL Y DE FAUNA SILVESTRE, Y APROBAR DISPOSICIONES COMPLEMENTARIAS ORIENTADAS A PROMOVERI A ZONIFICACION FORESTAL'?",
+      "context": [
+        "Asistencia del 04 de diciembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/649_pp2011_2016_pa2014_2015_leg1_page_18.png",
+        "Asistencia del 04 de diciembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/649_pp2011_2016_pa2014_2015_leg1_page_16.png",
+        "Asistencia del 04 de diciembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/649_pp2011_2016_pa2014_2015_leg1_page_6.png",
+        "Asistencia del 04 de diciembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/649_pp2011_2016_pa2014_2015_leg1_page_13.png",
+        "Asistencia del 04 de diciembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/649_pp2011_2016_pa2014_2015_leg1_page_27.png",
+        "Asistencia del 04 de diciembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/649_pp2011_2016_pa2014_2015_leg1_page_15.png",
+        "Asistencia del 04 de diciembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/649_pp2011_2016_pa2014_2015_leg1_page_39.png",
+        "Asistencia del 04 de diciembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/votacion/649_pp2011_2016_pa2014_2015_leg1_page_11.png",
+        "Asistencia del 22 de junio del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/894_pp2006_2011_pa2009_2010_leg2_page_14.png",
+        "Asistencia del 22 de junio del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/894_pp2006_2011_pa2009_2010_leg2_page_25.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'TEXTO SUSTITUTORIO DE LA MOCION 038, QUE PROPONE EXHORTAR AL SENOR PRESIDENTE DE LA REPUBLICA JOSÉ PEDRO CASTILLO TERRONES, A TENER EN CUENTA PARA LA DESIGNACION DE MINISTROS DE ESTADO LOS ASPECTOS RELACIONADOS CON INVESTIGACIONES, PROCESOS Y SENTENCIAS EN ASUNTOS DE TERRORISMO, NARCOTRAFICO, LAVADO DE ACTIVOS Y ORGANIZACION CRIMINAL, CONSIDERANDO ADEMAS LA IDONEIDAD TÉCNICA Y MORAL REQUERIDA PARA DICHOS ALTOS CARGOS PUBL ICOS DEL PAIS'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'OCION 182 (ADMISION); OTORGA FACULTADES DE COMISION INVESTIGADORA A LA COMISION DE ONFORME AL ARTICULO 88 DEL REGLAMENTO DEL CONGRESO DE LA REPUBLICA. HASTA POR 180DIAS FISCALIZACION HABIL ES Y CONTRALORIA,'?",
+      "context": [
+        "Asistencia del 21 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/182_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 21 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/182_pp2021_2026_pa2022_2023_leg1_page_5.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'OONERACION DE LA SEGUNDA VOTACION DEL TEXTO SUSTITUTORIO DE LOS PROYECTOS DE LEY 758 (ACTUALIZADO), 968 CTUALIZADO), 4127 Y 4370, QUE PROPONE REGULAR LAS ESCUELAS SUPERIORES DE FORMACION ARTISTICA Y LA CARRERA JBLICA DE SUS DOCENTES, Y DICTAR OTRAS DISPOSICIONES'?",
+      "context": [
+        "Asistencia del 12 de diciembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/758_pp2011_2016_pa2012_2013_leg1_page_6.png",
+        "Asistencia del 12 de diciembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/758_pp2011_2016_pa2012_2013_leg1_page_4.png",
+        "Asistencia del 12 de diciembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/758_pp2011_2016_pa2012_2013_leg1_page_8.png",
+        "Asistencia del 12 de diciembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/758_pp2011_2016_pa2012_2013_leg1_page_11.png",
+        "Asistencia del 12 de diciembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/758_pp2011_2016_pa2012_2013_leg1_page_10.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_8.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_12.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'PROYS 952, 2328 y 2715, LEY QUE MODIFICA LOS ARTICULOS 186°, 194°, 206°, 281° Y 283° DEL CODIGO PENAL PARA REPRIMIR LOS ACTOS CONTRA LOS SERVICIOS PUBLICOS'?",
+      "context": [
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 08 de julio del 2021 – Cuarta Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/283_pp2016_2021_pa2021_2022_leg4_page_12.png",
+        "Asistencia del 08 de julio del 2021 – Cuarta Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/283_pp2016_2021_pa2021_2022_leg4_page_27.png",
+        "Asistencia del 08 de julio del 2021 – Cuarta Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/283_pp2016_2021_pa2021_2022_leg4_page_31.png",
+        "Asistencia del 08 de julio del 2021 – Cuarta Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/283_pp2016_2021_pa2021_2022_leg4_page_22.png",
+        "Asistencia del 08 de julio del 2021 – Cuarta Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/283_pp2016_2021_pa2021_2022_leg4_page_25.png",
+        "Asistencia del 08 de julio del 2021 – Cuarta Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/283_pp2016_2021_pa2021_2022_leg4_page_29.png",
+        "Asistencia del 08 de julio del 2021 – Cuarta Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/283_pp2016_2021_pa2021_2022_leg4_page_15.png",
+        "Asistencia del 08 de julio del 2021 – Cuarta Legislatura Ordinaria 2020-2021.\nCongreso 2016-2021 | Periodo anual 2021-2022.\nURL: http://localhost:8080/votacion/283_pp2016_2021_pa2021_2022_leg4_page_19.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'ROY. 1807; LEY DE FORTALECIMIENTO DE LA DEFENSA DEL CONSUMIDOR A TRAVÉS DE LAS MUNICIPALIDADES'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE LA SEGUNDA VOTACION DEL PROY. 1058; LEY QUE MODIFICA EL ARTICULO 1 DEL DECRETO MODIFICA EL DECRETO LEGISLATIVO 1224, LEY MARCO DE PROMOCION DE LA INVERSION PRIVADA MEDIANTE LEGISLATIVO 1251, QUE PUBLICO PRIVADAS Y PROYECTOS EN ACTIVOS ASOCIACIONES'?",
+      "context": [
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_8.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_12.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/915_pp2006_2011_pa2009_2010_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE LA SEGUNDA VOTACION DEL TEXTO SUSTITUTORIO DE LOS PL 971, 1183, 1278, 2375, 2395, 3173 Y 4724 (ACTUALIZADO), QUE PROPONEN DISPONER EL NOMBRAMIENTO EXTRAORDINARIO DE LOS DOCENTES CONTRATADOS EN LOS INSTITUTOS Y ESCUELAS DE EDUCACION SUPERIOR TECNOLOGICOS, ARTISTICOS, DE FOLKLORE, DE MUSICA Y PEDAGOGICOS PUBLICOS, A FIN DE FORTALECER LA CARRERA PUBLICA DEL DOCENTE'?",
+      "context": [
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_8.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_12.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/915_pp2006_2011_pa2009_2010_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE LA SEGUNDA VOTACION DEL TEXTO SUSTITUTORIO DEL PROYECTO DE LEY 5324, QUE PROPONE LA LEY DE GARANTIA INTEGRAL PARA LA PRIMERA LINEA DE TRABAJO EN EL MARCO DE LA PANDEMIA POR COVID-19 Y QUE ESTABLECE RESPONSABII IDADES FUNCIONALES'?",
+      "context": [
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_8.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_12.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/915_pp2006_2011_pa2009_2010_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'ao U TEXTO SUSTITUTORIO DEL PROYECTO DE LEY 3074, QUE PROPONE LA LEY QUE MODIFICA EL ARTICULO 15 DEL DECRETO EGISLATIVO 559, LEY DE TRABAJO MÉDICO'?",
+      "context": [
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_18.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_22.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_10.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_5.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_7.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_12.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_20.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_14.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_9.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/votacion/559_pp2016_2021_pa2016_2017_leg1_page_3.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'XTO SUSTITUTORIO DEL PROYECTO RESOLUCION LEGISLATIVA 2563, QUE PROPONE CONCEDER PENSION DE GRACIA A DON JUAN FONSO VILLENA ZARATE, POR SU DESTACADA LABOR COMO POETA Y NOVELISTA PERUANO'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'PROYS 92, 100 Y 171; LEY QUE AMPLIA EL PLAZO DE APLICACION DE LA LEY 27889, LEY QUE CREA EL FONDO Y EL IMPUESTO EXTRAORDINARIO PARA LA PROMOCION Y DESARROLLO TURISTICO NACIONAL'?",
+      "context": [
+        "Asistencia del 12 de diciembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/171_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_50.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_26.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_12.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_17.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_27.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_41.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_15.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_44.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/100_pp2021_2026_pa2023_2024_leg1_page_23.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'TEXTO SUSTITUTORIO DEL PROYECTO DE LEY 6486, QUE PROPONE LA LEY QUE DECLARA DE NECESIDAD PUBLICA E INTERÉS NACIONAL LA INTEGRACION SOSTENIBLE MULTIMODAL ENTRE PUCALLPA, DEPARTAMENTO DE UCAYALI, REPUBLICA DEL PERU, Y LOS ESTADOS DE ACRE, CRUZEIRO DO SUL, REPUBLICA FEDERATIVA DE BRASIL'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'ASuIt... PROYECTO DE RESOLUCION LEGISLATIVA 6352, QUE AUTORIZA A LA SENORA PRESIDENTA DE LA REPUBLICA PARA SALIR DEL TERRITORIO NACIONAL DEL 14 AL 18 DE NOVIEMBRE DE 2023, CON EL OBJETO DE VIAJAR A LA CIUDAD DE SAN FRANCISCO, ESTADO DE CALIFORNIA ESTADOS UNIDOS DE AMÉRICA'?",
+      "context": [
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_29.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_11.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_8.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_32.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_19.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_16.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_9.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_40.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_36.png",
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/votacion/105_pp2021_2026_pa2023_2024_leg1_page_34.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'CUESTION PREVIA PARA QUE VUELVA A LA COMISION DE ECONOMIA EL PROY 2857, LEY QUE ESTABLECE EL REGIMEN DE ADMISION TEMPORAL DE AERONAVES Y MATERIAL AERONAUTICO'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'EXONERACION DE SEGUNDA VOTACION DEL PROY. 3330; LEY QUE CONDONA LOS INTERESES Y MORAS DERIVADOS DEL ENDEUDAMIENTO CONTRAIDO POR LOS AFECTADOS DEL ATENTADO TERRORISTA DE LA CALLE TARATA.'?",
+      "context": [
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_8.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_12.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/915_pp2006_2011_pa2009_2010_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'd Rel neralpPna PROYS. 422, 539 Y 561; LEY DE REACTIVACION DE LA COMISION EJECUTIVA CREADA POR LA LEY 27803. LEY QUE IMPLEMENTA LAS RECOMENDACIONES DERIVADAS DE LAS COMISIONES CREADAS POR LAS LEYES 27452 Y 27586, ENCARGADAS DE REVISAR LOS CESES COLECTIVOS EFECTUADOS EN LAS EMPRESAS DEL ESTADO SUJETAS A PROCESOS DE PROMOCION DE LA'?",
+      "context": [
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_16.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_14.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_25.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_3.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_12.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_19.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_6.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_17.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_7.png",
+        "Asistencia del 16 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/422_pp2016_2021_pa2018_2019_leg2_page_23.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'PROY 103; LEY QUE INCORPORA EL ARTICULO 317-A AL CODIGO PENAL'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'ONERACION DE LA SEGUNDA VOTACION DEL TEXTO SUSTITUTORIO DE LOS PROYECTOS DE LEY 3730 Y 5741, QUE PROPONE LA LEY E REGULA EL DEPOSITO LEGAL EN LA BIBLIOTECA NACIONAL DEL PERU COMO INSTRUMENTO PARA PRESERVAR Y DIFUNDIR EL TRIMONIO BIBLIOGRAFICO, SONORO, VISUAL, AUDIOVISUAL Y DIGITAL NACIONAL'?",
+      "context": [
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_6.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/918_pp2006_2011_pa2009_2010_leg2_page_8.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_12.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_4.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/916_pp2006_2011_pa2009_2010_leg2_page_3.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/votacion/915_pp2006_2011_pa2009_2010_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'PROY. 1069; LEY QUE MODIFICA LA LEY 27658 INCORPORANDO A LOS GOBIERNOS REGIONALES Y LOCALES EN LA ESTRATEGIA DEL PROCESO DE MODERNIZACION DE LA GESTION DEL ESTADO'?",
+      "context": []
+    },
+    {
+      "query": "¿Qué días se trataron las votaciones con asunto 'RECONSIDERACION DE LA VOTACION DEL TEXTO SUSTITUTORIO DE LOS PROYECTOS DE LEY 778, 813 Y 1040, QUE PROPONE MODIFICAR EL ARTICULO 10 DE LA LEY 28359, LEY DE SITUACION MILITAR DE LOS OFICIALES DE LAS FUERZAS ARMADAS'?",
+      "context": [
+        "Asistencia del 17 de septiembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/778_pp2011_2016_pa2012_2013_leg1_page_3.png",
+        "Asistencia del 17 de septiembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/778_pp2011_2016_pa2012_2013_leg1_page_5.png",
+        "Asistencia del 17 de septiembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/778_pp2011_2016_pa2012_2013_leg1_page_6.png",
+        "Asistencia del 17 de septiembre del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/778_pp2011_2016_pa2012_2013_leg1_page_8.png",
+        "Asistencia del 04 de enero del 2012 – Primera Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/813_pp2011_2016_pa2011_2012_leg1_page_8.png",
+        "Asistencia del 04 de enero del 2012 – Primera Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/813_pp2011_2016_pa2011_2012_leg1_page_3.png",
+        "Asistencia del 04 de enero del 2012 – Primcra Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/813_pp2011_2016_pa2011_2012_leg1_page_13.png",
+        "Asistencia del 04 de enero del 2012 – Primera Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/813_pp2011_2016_pa2011_2012_leg1_page_10.png",
+        "Asistencia del 04 de enero del 2012 – Primera Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/813_pp2011_2016_pa2011_2012_leg1_page_12.png"
+      ]
+    }
+  ],
+  "presidente": [
+    {
+      "query": "¿Qué votaciones se realizaron el día 7 de noviembre de 2013 cuando OTARREXPPR RAD FREDY ROLAN DE U presidió la sesión?",
+      "context": [
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 07 de noviembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/714_pp2011_2016_pa2013_2014_leg1_page_13.png",
+        "Asistencia del 07 de noviembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/714_pp2011_2016_pa2013_2014_leg1_page_3.png",
+        "Asistencia del 07 de noviembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/714_pp2011_2016_pa2013_2014_leg1_page_8.png",
+        "Asistencia del 07 de noviembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/714_pp2011_2016_pa2013_2014_leg1_page_5.png",
+        "Asistencia del 07 de noviembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/714_pp2011_2016_pa2013_2014_leg1_page_15.png",
+        "Asistencia del 07 de noviembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/714_pp2011_2016_pa2013_2014_leg1_page_17.png",
+        "Asistencia del 07 de noviembre del 2013 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/votacion/714_pp2011_2016_pa2013_2014_leg1_page_19.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 27 de abril de 2023 cuando MUNANTE BARRIOS, ALEJANDRO presidió la sesión?",
+      "context": [
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 04 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/146_pp2021_2026_pa2022_2023_leg2_page_11.png",
+        "Asistencia del 04 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/146_pp2021_2026_pa2022_2023_leg2_page_9.png",
+        "Asistencia del 04 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/146_pp2021_2026_pa2022_2023_leg2_page_16.png",
+        "Asistencia del 04 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/146_pp2021_2026_pa2022_2023_leg2_page_20.png",
+        "Asistencia del 04 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/146_pp2021_2026_pa2022_2023_leg2_page_18.png",
+        "Asistencia del 04 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/146_pp2021_2026_pa2022_2023_leg2_page_22.png",
+        "Asistencia del 04 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/146_pp2021_2026_pa2022_2023_leg2_page_12.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 21 de junio de 2023 cuando MUNANTE BARRIOS, ALEJANDRO presidió la sesión?",
+      "context": [
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_37.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_7.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_19.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_16.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_28.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_27.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_25.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 21 de junio de 2023 cuando MUNANTE BARRIOS, ALEJANDRO presidió la sesión?",
+      "context": [
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_37.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_7.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_19.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_16.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_28.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_27.png",
+        "Asistencia del 08 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/134_pp2021_2026_pa2022_2023_leg2_page_25.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 7 de marzo de 2013 cuando EGUREN NEUENSCHWANDEER JUAN C presidió la sesión?",
+      "context": [
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 05 de marzo del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/754_pp2011_2016_pa2012_2013_leg2_page_3.png",
+        "Asistencia del 07 de marzo del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/753_pp2011_2016_pa2012_2013_leg2_page_27.png",
+        "Asistencia del 07 de marzo del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/753_pp2011_2016_pa2012_2013_leg2_page_29.png",
+        "Asistencia del 07 de marzo del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/753_pp2011_2016_pa2012_2013_leg2_page_21.png",
+        "Asistencia del 07 de marzo del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/753_pp2011_2016_pa2012_2013_leg2_page_26.png",
+        "Asistencia del 07 de marzo del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/753_pp2011_2016_pa2012_2013_leg2_page_30.png",
+        "Asistencia del 07 de marzo del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/753_pp2011_2016_pa2012_2013_leg2_page_23.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 16 de julio de 2013 cuando - E FRTOR 3 - A 13SPPROAAS presidió la sesión?",
+      "context": [
+        "Asistencia del 02 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/734_pp2011_2016_pa2012_2013_leg2_page_7.png",
+        "Asistencia del 02 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/734_pp2011_2016_pa2012_2013_leg2_page_8.png",
+        "Asistencia del 04 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/733_pp2011_2016_pa2012_2013_leg2_page_9.png",
+        "Asistencia del 04 de julio del 2013 – Segunda Legislatura Crdinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/733_pp2011_2016_pa2012_2013_leg2_page_12.png",
+        "Asistencia del 04 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/733_pp2011_2016_pa2012_2013_leg2_page_10.png",
+        "Asistencia del 04 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/733_pp2011_2016_pa2012_2013_leg2_page_5.png",
+        "Asistencia del 04 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/733_pp2011_2016_pa2012_2013_leg2_page_7.png",
+        "Asistencia del 16 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/732_pp2011_2016_pa2012_2013_leg2_page_5.png",
+        "Asistencia del 16 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/732_pp2011_2016_pa2012_2013_leg2_page_15.png",
+        "Asistencia del 16 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/votacion/732_pp2011_2016_pa2012_2013_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 10 de diciembre de 2015 cuando Z, LUIS ELAREST ASERICO presidió la sesión?",
+      "context": [
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 03 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/594_pp2011_2016_pa2015_2016_leg1_page_3.png",
+        "Asistencia del 03 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/594_pp2011_2016_pa2015_2016_leg1_page_22.png",
+        "Asistencia del 03 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/594_pp2011_2016_pa2015_2016_leg1_page_11.png",
+        "Asistencia del 03 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/594_pp2011_2016_pa2015_2016_leg1_page_13.png",
+        "Asistencia del 03 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/594_pp2011_2016_pa2015_2016_leg1_page_18.png",
+        "Asistencia del 03 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/594_pp2011_2016_pa2015_2016_leg1_page_5.png",
+        "Asistencia del 03 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/594_pp2011_2016_pa2015_2016_leg1_page_29.png",
+        "Asistencia del 03 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/594_pp2011_2016_pa2015_2016_leg1_page_16.png",
+        "Asistencia del 09 de diciembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/votacion/593_pp2011_2016_pa2015_2016_leg1_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 22 de marzo de 2012 cuando MAJLUF, DANIEL in BCCTTAS presidió la sesión?",
+      "context": [
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 08 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/809_pp2011_2016_pa2011_2012_leg2_page_11.png",
+        "Asistencia del 08 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/809_pp2011_2016_pa2011_2012_leg2_page_5.png",
+        "Asistencia del 08 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/809_pp2011_2016_pa2011_2012_leg2_page_7.png",
+        "Asistencia del 08 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/809_pp2011_2016_pa2011_2012_leg2_page_9.png",
+        "Asistencia del 15 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/808_pp2011_2016_pa2011_2012_leg2_page_10.png",
+        "Asistencia del 15 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/808_pp2011_2016_pa2011_2012_leg2_page_26.png",
+        "Asistencia del 15 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/808_pp2011_2016_pa2011_2012_leg2_page_3.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 24 de mayo de 2012 cuando ABUGATTAS MAJLUF, DANIEL a DE LAD E0 DELA presidió la sesión?",
+      "context": [
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 02 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/800_pp2011_2016_pa2011_2012_leg2_page_5.png",
+        "Asistencia del 03 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/799_pp2011_2016_pa2011_2012_leg2_page_15.png",
+        "Asistencia del 03 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/799_pp2011_2016_pa2011_2012_leg2_page_17.png",
+        "Asistencia del 03 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/799_pp2011_2016_pa2011_2012_leg2_page_9.png",
+        "Asistencia del 03 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/799_pp2011_2016_pa2011_2012_leg2_page_13.png",
+        "Asistencia del 03 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/799_pp2011_2016_pa2011_2012_leg2_page_6.png",
+        "Asistencia del 03 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/votacion/799_pp2011_2016_pa2011_2012_leg2_page_12.png"
+      ]
+    },
+    {
+      "query": "¿Qué votaciones se realizaron el día 18 de septiembre de 2024 cuando SALHUANA CAVIDES, EDUARDO d presidió la sesión?",
+      "context": [
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 02 de septiembre del 2022 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2022-202.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/votacion/194_pp2021_2026_pa2022_2023_leg1_page_3.png",
+        "Asistencia del 08 de diciembre del 2018 – Sesion Extraordinaria - Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/votacion/443_pp2016_2021_pa2018_2019_leg1_page_3.png",
+        "Asistencia del 04 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/049_pp2021_2026_pa2024_2025_leg1_page_15.png",
+        "Asistencia del 04 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/049_pp2021_2026_pa2024_2025_leg1_page_17.png",
+        "Asistencia del 04 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/049_pp2021_2026_pa2024_2025_leg1_page_10.png",
+        "Asistencia del 04 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/049_pp2021_2026_pa2024_2025_leg1_page_3.png",
+        "Asistencia del 04 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/049_pp2021_2026_pa2024_2025_leg1_page_19.png",
+        "Asistencia del 04 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/049_pp2021_2026_pa2024_2025_leg1_page_12.png",
+        "Asistencia del 04 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/votacion/049_pp2021_2026_pa2024_2025_leg1_page_13.png"
+      ]
+    }
+  ]
+}
